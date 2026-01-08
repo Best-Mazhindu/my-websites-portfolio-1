@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["2QQNb"]); }
+
+__d("ReactComposerAsset3dWebFunnelLogger",["ReactComposerAsset3dWebFunnelActionType","WebFunnelLogger"],(function(a,b,c,d,e,f){__p&&__p();var g="Photo3DWebFunnelDefinition";a=function(){"use strict";__p&&__p();function a(){}var c=a.prototype;c.logAction=function(a,c){a=new(b("WebFunnelLogger"))(g).setAction(c).setSessionKey(a);switch(c){case b("ReactComposerAsset3dWebFunnelActionType").CREATION_START:a.markStart();break;case b("ReactComposerAsset3dWebFunnelActionType").POST_SUBMITTED:a.markEnd();break}a.log()};return a}();e.exports=new a()}),null);

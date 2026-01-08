@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["OTRhz"]); }
+
+__d("sdk.Model",["ObservableMixin","Type"],(function(a,b,c,d,e,f){"use strict";__p&&__p();a=b("Type").extend({constructor:function(a){__p&&__p();this.parent();var b={},c=this;Object.keys(a).forEach(function(d){b[d]=a[d],c["set"+d]=function(a){if(a===b[d])return c;b[d]=a;c.inform(d+".change",a);return c},c["get"+d]=function(){return b[d]}})}},b("ObservableMixin"));e.exports=a}),null);

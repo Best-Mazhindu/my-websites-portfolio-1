@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["WZhvU"]); }
+
+__d("LeafletPath",["areEqual","partitionObjectByKey"],(function(a,b,c,d,e,f){"use strict";__p&&__p();var g=function(){var a=new Set(["color","dashArray","fill","fillColor","fillOpacity","lineCap","lineJoin","opacity","stroke","weight"]);return function(c){return b("partitionObjectByKey")(c,a)}}();a={mutateOptions:function(a,c,d){__p&&__p();c=g(c||{});var e=c[0];c=c[1];d=g(d||{});var f=d[0];d=d[1];if(!b("areEqual")(c,d))return!1;b("areEqual")(e,f)||a.setStyle(e);return!0}};e.exports=a}),null);

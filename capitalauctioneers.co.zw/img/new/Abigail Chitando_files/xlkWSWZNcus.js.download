@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["9nndR"]); }
+
+__d("sdk.Scribe",["QueryString","UrlMap","sdk.Runtime"],(function(a,b,c,d,e,f){function a(a,c){typeof c.extra==="object"&&(c.extra.revision=b("sdk.Runtime").getRevision()),new Image().src=b("QueryString").appendToUrl(b("UrlMap").resolve("www")+"/common/scribe_endpoint.php",{c:a,m:JSON.stringify(c)})}c={log:a};e.exports=c}),null);

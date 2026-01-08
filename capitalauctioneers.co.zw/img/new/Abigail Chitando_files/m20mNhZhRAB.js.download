@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["IVG7i"]); }
+
+__d("LeafletView",["invariant","GeoCoordinates","ImmutableObject","nearlyEqualNumbers"],(function(a,b,c,d,e,f,g){"use strict";__p&&__p();a=function(a){__p&&__p();babelHelpers.inheritsLoose(c,a);function c(c){c||g(0,666);c.center instanceof b("GeoCoordinates")||g(0,667);typeof c.zoom==="number"||g(0,668);return a.call(this,c)||this}var d=c.prototype;d.nearlyEquals=function(a){return this.center.nearlyEquals(a.center)&&b("nearlyEqualNumbers")(this.zoom,a.zoom)};d.setZoom=function(a){return new c({center:this.center,zoom:a})};d.setCenter=function(a){return new c({center:a,zoom:this.zoom})};return c}(b("ImmutableObject"));a.DEFAULT=new a({center:new(b("GeoCoordinates"))(0,0),zoom:0});e.exports=a}),null);

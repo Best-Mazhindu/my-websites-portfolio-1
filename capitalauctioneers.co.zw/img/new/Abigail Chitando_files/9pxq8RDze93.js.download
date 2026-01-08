@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["qpYQy"]); }
+
+__d("ChatTabAddBackPreventedQuery",["RelayFBEnvironment","RelayModern","promiseDone","ChatTabAddBackPreventedQuery.graphql"],(function(a,b,c,d,e,f){"use strict";__p&&__p();var g=b("RelayModern").fetchQuery;b("RelayModern").graphql;var h=function(){return b("ChatTabAddBackPreventedQuery.graphql")};a={fetch:function(a,c){b("promiseDone")(g(b("RelayFBEnvironment"),h,{thread_id:a}),function(a){c(a.message_thread.non_addable_recipients.nodes.map(function(a){return a.id}))})}};e.exports=a}),null);
