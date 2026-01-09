@@ -1,7 +1,21 @@
-https://best-mazhindu.github.io/my-websites-portfolio-1/Autorex/ <br>
-https://best-mazhindu.github.io/my-websites-portfolio-1/Moscet/ <br>
-https://best-mazhindu.github.io/my-websites-portfolio-1/MrBusyWorld/ <br>
-https://best-mazhindu.github.io/my-websites-portfolio-1/.... <br>
-https://best-mazhindu.github.io/my-websites-portfolio-1/..../ <br>
-https://best-mazhindu.github.io/my-websites-portfolio-1/..../ <br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/Autorex/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/Moscet/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/MrBusyWorld/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/bfc/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/bridgepoint/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/brightCleaners/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/c-lifestyle/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/cank/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/cank2-electrico/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/capitalauctioneers.co.zw/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/capitalexchange/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/crossroads/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/depthtech.co.zw/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/dingmalainc.com/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/donbridge.co.zw/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/iley/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/installex/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/jadikas.co.zw/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/kingpin.co.zw/<br>
+https://best-mazhindu.github.io/my-websites-portfolio-1/ngosana.co.zw/<br>
 
